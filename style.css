@@ -15,10 +15,67 @@ body {
     background: #ECE9FD;
     padding: 6.0rem 2.3rem 6.0rem 2.3rem;
     font-size: 1.6rem;
+    font-family: 'Epilogue', sans-serif;
 }
 
 h1 {
-    font-family: 'Epilogue', sans-serif;
+    color: #090039;
     font-size: 4.0rem;
     line-height: 4.8rem;
+    font-weight: 800;
+
+    margin-bottom: 1.5rem;
+}
+main {
+    max-width: 33.0rem;
+    margin: 0 auto;
+}
+main > :first-child {
+    color: #7158EF;
+    font-size: 1.6rem;
+    font-weight: 400;
+
+    line-height: 3.2rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 1.7rem;
+}
+/* o p anterior h1 que vai selecionar p   */
+
+h1 + p {
+    color: rgba(10, 0, 57, 0.64);
+    line-height: 3.2rem;
+
+    margin-bottom: 3.2rem;
+}
+
+/* só tem 1 a no main*/
+a {
+    color: #090039;
+}
+a:hover{
+    color: #7158EF;
+    font-weight: bold;
+}
+
+/* list */
+ul {
+    margin-top:  7.2rem;
+}
+ul li {
+    color: #090039;
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 3.2rem;
+
+    width: 25.7rem;
+    display: flex;
+    gap: 3.8rem;
+}
+ul li span {
+    color: #090039;
+    font-size: 7.2rem;
+    line-height: 8.0rem;
+    font-weight: 800;
+    letter-spacing: -2px;
 }
