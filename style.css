@@ -79,3 +79,23 @@ ul li span {
     font-weight: 800;
     letter-spacing: -2px;
 }
+
+/* responsividade para desktop */
+
+/* de 600px pracima ele aplica o codigo */
+@media (min-width: 700px) {
+    main {
+        max-width: 1020px; /* quando chegar no max de width para de crescer*/
+        display: flex;
+        gap: 10rem;
+    }    
+
+    main > div {
+        max-width: 484px;
+    }
+
+    ul li {
+        gap: 5.3rem;
+        max-width: 400px;
+    }
+}
