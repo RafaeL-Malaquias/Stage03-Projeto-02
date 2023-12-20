@@ -30,7 +30,7 @@ main {
     max-width: 33.0rem;
     margin: 0 auto;
 }
-main > :first-child {
+main p:first-child{
     color: #7158EF;
     font-size: 1.6rem;
     font-weight: 400;
@@ -84,11 +84,15 @@ ul li span {
 
 /* de 600px pracima ele aplica o codigo */
 @media (min-width: 700px) {
+    body {
+        padding-top: 8rem;
+    }
     main {
-        max-width: 1020px; /* quando chegar no max de width para de crescer*/
+        max-width: 1020px;
         display: flex;
         gap: 10rem;
-    }    
+
+     }
 
     main > div {
         max-width: 484px;
@@ -96,6 +100,10 @@ ul li span {
 
     ul li {
         gap: 5.3rem;
-        max-width: 400px;
+        max-width: 450px;
+        align-items: center;
     }
-}
+    ul li + li {
+        margin-top: 3.2rem;
+    }
+ }
