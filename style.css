@@ -93,11 +93,9 @@ ul li span {
         gap: 10rem;
 
      }
-
     main > div {
         max-width: 484px;
     }
-
     ul li {
         gap: 5.3rem;
         max-width: 450px;
