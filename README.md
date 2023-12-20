@@ -1,18 +1,18 @@
 <h1 align="center">Avalie a sua mentoria</h1>
 <p align="center">
-  <a href="https://rafael-malaquias.github.io/Projeto-Discover/">
-    <img height="470em" src="assets/Screenshot.png">
+  <a href="https://rafael-malaquias.github.io/Stage-03-form/">
+    <img height="600em" src="assest/Screenshot_2.png">
     </a>
 </p>
 
 <p align="center">
-Curso exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Criando formulários avançado, curso exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#https://rafael-malaquias.github.io/Projeto-Discover/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://rafael-malaquias.github.io/Stage-03-form/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/file/4lqgH7HrVCtByksPurfDEY/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?node-id=0%3A1&mode=devt">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -29,19 +29,18 @@ Curso exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+Avaliação de Mentoria, Este formulário foi criado com HTML e CSS, oferece uma experiência de usuário intuitiva e agradável, garantindo que sua avaliação seja fácil de ser expressa.
 
-[Link](https://rafael-malaquias.github.io/Projeto-Discover/) - Para visualizar o projeto.
+[Link](https://rafael-malaquias.github.io/Stage-03-form/) - Para visualizar o projeto.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/aZSjJQwha0awnzkn6Q9CPX/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/4lqgH7HrVCtByksPurfDEY/Stage-03---Formul%C3%A1rio-avan%C3%A7ado-(Copy)?mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ##  📝 Licença
 
